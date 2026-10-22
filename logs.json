@@ -1,0 +1,12 @@
+[
+  {"timestamp": "2026-10-13 09:00:01", "level": "INFO", "service": "auth", "message": "User admin logged in successfully"},
+  {"timestamp": "2026-10-13 09:02:15", "level": "DEBUG", "service": "api-gateway", "message": "Routing request to /orders"},
+  {"timestamp": "2026-10-13 09:05:42", "level": "WARNING", "service": "database", "message": "Slow query detected (2.4s)"},
+  {"timestamp": "2026-10-13 09:07:30", "level": "ERROR", "service": "payment", "message": "Payment gateway timeout for order 1042"},
+  {"timestamp": "2026-10-13 09:10:05", "level": "INFO", "service": "email", "message": "Welcome email sent to new user"},
+  {"timestamp": "2026-10-13 09:12:48", "level": "ERROR", "service": "database", "message": "Connection pool exhausted"},
+  {"timestamp": "2026-10-13 09:15:19", "level": "INFO", "service": "auth", "message": "Password reset requested"},
+  {"timestamp": "2026-10-13 09:18:00", "level": "WARNING", "service": "api-gateway", "message": "Rate limit almost reached for client 10.0.0.7"},
+  {"timestamp": "2026-10-13 09:21:33", "level": "DEBUG", "service": "auth", "message": "Session token cache refreshed"},
+  {"timestamp": "2026-10-13 09:24:09", "level": "INFO", "service": "payment", "message": "Payment processed for order 1043"}
+]

@@ -1,0 +1,18 @@
+LOG ANALYSIS REPORT
+==============================
+Source file   : sample_logs.json
+Generated     : 2026-10-13 23:18:43
+
+Total entries : 20
+Errors        : 4
+
+Entries per level:
+  INFO    : 10
+  WARNING : 3
+  ERROR   : 4
+  DEBUG   : 3
+
+Top 3 services:
+  1. auth (7 logs)
+  2. database (5 logs)
+  3. payment (3 logs)
